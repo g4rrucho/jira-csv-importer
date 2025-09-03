@@ -1,0 +1,12 @@
+{
+  "name": "jira-csv-importer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "axios": "^1.11.0",
+    "csv-parse": "^6.1.0",
+    "dotenv": "^17.2.2"
+  }
+}
